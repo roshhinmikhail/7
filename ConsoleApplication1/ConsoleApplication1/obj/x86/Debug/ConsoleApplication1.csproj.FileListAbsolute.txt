@@ -1,0 +1,6 @@
+C:\Users\Миха\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Миха\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Миха\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Миха\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\yadisk\YandexDisk\7\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\yadisk\YandexDisk\7\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
